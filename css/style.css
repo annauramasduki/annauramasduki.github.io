@@ -165,8 +165,8 @@ sss * {
 }
 body {
   position: relative;
-  background: #323045;
-  color: #585555;
+  background: #eb7dd8; /* ini background_utama */  
+  color: #273114; 
   font: 14px/20px 'Open Sans', sans-serif;
 }
 .ic {
@@ -391,7 +391,7 @@ a:hover {
 }
 /*header*/
 header {
-  color: #e6e5e5;
+  color: #ffffff;
   display: block;
   position: relative;
   z-index: 999;
@@ -489,13 +489,13 @@ header .header_top {
   font-weight: 300;
   overflow: hidden;
 }
-.socials li .fa {
+.socials li .fa { 
   font-size: 18px;
   line-height: 44px;
   display: block;
   width: 44px;
   height: 44px;
-  background-color: #323045;
+  background-color: pink; 
   border-radius: 500px;
   color: #ffffff;
   text-align: center;
@@ -580,7 +580,7 @@ header .header_top {
 }
 .box .box_bot {
   background-color: #323045;
-  color: #ffffff;
+  color: #e7e575;
   position: absolute;
   left: 0;
   right: 0;
@@ -604,7 +604,7 @@ header .header_top {
   color: #e8e6b9;
 }
 .box .box_bot .btn:hover {
-  color: #323045;
+  color: #ffffff;
   border-color: #ffffff;
 }
 .box .box_bot:hover {
@@ -746,7 +746,7 @@ a.color1:hover {
 }
 #footer .sub-copy {
   padding-top: 37px;
-  color: #6d6a6a;
+  color: #6d6a6a; 
 }
 #footer a:hover {
   color: #ffffff;
